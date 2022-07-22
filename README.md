@@ -1,17 +1,17 @@
 <div id="top"></div>
 <p align="center">
-  <img src="https://img.shields.io/github/contributors/NotShadow1337/Discord-welcome-bot.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/NotShadow1337/Discord-welcome-bot.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/NotShadow1337/Discord-welcome-bot.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/issues/NotShadow1337/Discord-welcome-bot.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/NotShadow1337/Discord-welcome-bot.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/contributors/NotShadow1337/Discord-welcomer-bot.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/forks/NotShadow1337/Discord-welcomer-bot.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/NotShadow1337/Discord-welcomer-bot.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/issues/NotShadow1337/Discord-welcomer-bot.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/license/NotShadow1337/Discord-welcomer-bot.svg?style=for-the-badge"/>
 </p>  
   
 ---------------------------------------
   
 <br/>
 <div align="center">
-  <a href="https://github.com/NotShadow1337/Discord-welcome-bot">
+  <a href="https://github.com/NotShadow1337/Discord-welcomer-bot">
     <img src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png" alt="Logo" width="120" height="120">
   </a>
   
@@ -21,9 +21,9 @@
     Discord bot that welcomes new members to the server.
     <br />
     <br />
-    <a href="https://github.com/NotShadow1337/Discord-welcome-bot/issues">Report Bug</a>
+    <a href="https://github.com/NotShadow1337/Discord-welcomer-bot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/NotShadow1337/Discord-welcome-bot/issues">Request Feature</a>
+    <a href="https://github.com/NotShadow1337/Discord-welcomer-bot/issues">Request Feature</a>
   </p>
 </div>
 
